@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ghc.Utility.DataAccess.GHCDataAccessLayer">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAShIAAAAAgAARABAEAAAAQgAAABACAAAAAAoAA=</HashCode>
+      <FileName>GHCDataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghc.Utility.DataAccess.GHCDataAccessLayerFactory">
+    <Position X="1" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>GHCDataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GHCDataAccessLayer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Ghc.Utility.DataAccess.SqlDataAccessLayer">
+    <Position X="2.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SqlDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghc.Utility.DataAccess.OleDbDataAccessLayer">
+    <Position X="8.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OleDbDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghc.Utility.DataAccess.OdbcDataAccessLayer">
+    <Position X="5.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OdbcDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ghc.Utility.DataAccess.GHCConnectionStringBuilder">
+    <Position X="1" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AQABAAAAAAAAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GHCConnectionStringBuilder.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="GHCDataAccessLayerFactory" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="Ghc.Utility.DataAccess.DataProviderType">
+    <Position X="1" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GHCDataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Ghc.Utility.DataAccess.Environment">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GHCDataAccessLayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

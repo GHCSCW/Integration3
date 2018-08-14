@@ -1,0 +1,7 @@
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\obj\Debug\GHCDataAccess.csprojResolveAssemblyReference.cache
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\obj\Debug\GHCDataAccess.Properties.Resources.resources
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\obj\Debug\GHCDataAccess.csproj.GenerateResource.Cache
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\bin\Debug\GHCDataAccess.dll
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\bin\Debug\GHCDataAccess.pdb
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\obj\Debug\GHCDataAccess.dll
+E:\workspace\Integration\Components\GHCDataAccess\GHCDataAccess\obj\Debug\GHCDataAccess.pdb

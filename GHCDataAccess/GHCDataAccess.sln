@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHCDataAccess", "GHCDataAccess\GHCDataAccess.csproj", "{0C2B6F71-2732-4030-A6EA-8D1F4C5AE7BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHCDataAccessTest", "GHCDataAccessTest\GHCDataAccessTest.csproj", "{AD06CB93-7B19-4B06-B364-4FABBF6D17AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHCDataAccessLayerExample", "GHCDataAccessLayerExample\GHCDataAccessLayerExample.csproj", "{4A633D5F-5732-4572-8734-7BB084F56704}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs:8080/tfs/ghc%20enterprise%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GHCDataAccess\\GHCDataAccess.csproj
+		SccProjectName1 = GHCDataAccess
+		SccLocalPath1 = GHCDataAccess
+		SccProjectUniqueName2 = GHCDataAccessTest\\GHCDataAccessTest.csproj
+		SccProjectName2 = GHCDataAccessTest
+		SccLocalPath2 = GHCDataAccessTest
+		SccProjectUniqueName3 = GHCDataAccessLayerExample\\GHCDataAccessLayerExample.csproj
+		SccProjectName3 = GHCDataAccessLayerExample
+		SccLocalPath3 = GHCDataAccessLayerExample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C2B6F71-2732-4030-A6EA-8D1F4C5AE7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2B6F71-2732-4030-A6EA-8D1F4C5AE7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2B6F71-2732-4030-A6EA-8D1F4C5AE7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2B6F71-2732-4030-A6EA-8D1F4C5AE7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD06CB93-7B19-4B06-B364-4FABBF6D17AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD06CB93-7B19-4B06-B364-4FABBF6D17AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD06CB93-7B19-4B06-B364-4FABBF6D17AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD06CB93-7B19-4B06-B364-4FABBF6D17AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A633D5F-5732-4572-8734-7BB084F56704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A633D5F-5732-4572-8734-7BB084F56704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A633D5F-5732-4572-8734-7BB084F56704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A633D5F-5732-4572-8734-7BB084F56704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
